@@ -1,0 +1,26 @@
+body {
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+
+
+}
+
+p {
+  font-size: 20px;
+  letter-spacing: .05em;
+  font-family: Times;
+  font-weight: lighter;
+
+}
+
+.header {
+margin-left: 440px;
+margin-right: 440px;
+}
+
+div {
+  max-width: 600px;
+  margin: auto;
+}
